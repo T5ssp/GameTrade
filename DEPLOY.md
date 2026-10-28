@@ -19,12 +19,14 @@ For this repository, open https://github.com/T5ssp/GameTrade/settings/pages and 
 
 ## Included interactions
 
-- Search and category filters; dish detail dialogs with ingredients and illustrative dietary/allergen information.
-- Local browser cart, quantities, OMR prices and calculated totals.
+- Search, category and plant-based/vegetarian filters, saved favorites and menu sorting.
+- Dish detail dialogs with optional extras, quantities, per-dish notes and illustrative nutrition/ingredient information.
+- Local browser cart with separate customized selections, editing/removal, meal pairings and OMR totals calculated in integer fils.
 - Dine-in/table selection or takeaway, required customer name, optional kitchen notes.
-- Demo confirmation, order number and simulated kitchen/robot/collection tracking.
+- Demo confirmation, order number and refresh-safe simulated kitchen/robot/collection tracking in the same tab.
+- Downloadable demo order summaries and reordering from the last five completed demo orders on this device. Names and kitchen/dish notes are omitted from saved history.
 - About, contact and robot service information dialogs.
-- Responsive layouts and keyboard focus handling for the order drawer.
+- Responsive layouts, mobile navigation, a bottom order bar and keyboard focus handling for dialogs and the order drawer.
 
 ## Scope
 
